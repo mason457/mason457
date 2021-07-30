@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mason457
 - 👀 I’m interested in python
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to find my life
 - 📫 How to reach me. My Email:yscar6@gmail.com
 
 <!---
